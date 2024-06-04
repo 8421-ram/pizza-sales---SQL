@@ -1,4 +1,15 @@
 # pizza-sales---SQL
+_______________________________________________________________________________________________________________________________________________
+![Example Image](https://res.cloudinary.com/dgwuwwqom/image/upload/v1717486090/Github/project%20photos/Pizza%20sales%20analysis.png)
+<div style="display: flex; align-items: center;">
+    <a href="https://www.linkedin.com/in/ramaopalakrishna/" style="margin-right: 10px;">
+        <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1716824972/Github/project%20photos/linkedin.png" alt="LinkedIn" style="width: 40px; height: 40px;">
+    </a>
+    <a href="https://8421-ram.github.io/Portfolio/">
+        <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1716824966/Github/project%20photos/portfolio.png" alt="Portfolio" style="width: 40px; height: 40px;">
+    </a>
+</div>
+
 
 
 
@@ -9,15 +20,15 @@ In our recent dive into pizza sales data, we uncovered some fascinating insights
 
 # Basic Insights:
 
-Total Orders: 21,350
-Total Revenue: $817,860.05
-Highest-Priced Pizza: The Greek Pizza at $35.95
-Most Common Pizza Size: Large
-Top 5 Most Ordered Pizza Types:
-The Classic Deluxe Pizza
-The Barbecue Chicken Pizza
-The Hawaiian Pizza
-The Pepperoni Pizza
+__Total Orders:__ 21,350\
+__Total Revenue:__ $817,860.05\
+__Highest-Priced Pizza:__ The Greek Pizza at $35.95\
+__Most Common Pizza Size:__ Large\
+## Top 5 Most Ordered Pizza Types:
+The Classic Deluxe Pizza\
+The Barbecue Chicken Pizza\
+The Hawaiian Pizza\
+The Pepperoni Pizza\
 The Thai Chicken Pizza
 
 # Intermediate Insights:
